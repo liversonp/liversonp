@@ -1,27 +1,23 @@
-## Hi there, I'm Liverson Paulo 👋
+## Hi there, I'm Liverson Paulo <img style="margin-right: 1%" align="center" src="./assets/megachu.gif" width="30" >
 
-<div style="display: flex">
-    <img style="margin-right: 1%" align="center" src="./assets/megachu.gif" width="180" >
-    <div>
-        <b>🔭 I’m interested on:</b>
-        <p>
-            - Engines and game development<br>
-            - Scalable backend architetures<br>
-            - Multiplatform mobile development<br>
-        </p>
-        <b> I’m currently learning:</b> <br>
-        <p>
-            - Unity<br>
-            - C#<br>
-            - C++<br>
-        </p>
-        <b>📫 How to reach me:</b> <br>
-        <a href="https://www.linkedin.com/in/liversonp/"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-        <a href="mailto:liverson.p@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><br>
-        <b>😄 Pronouns:</b> <br>
-        <p>he/his</p>
-    </div>
-</div>
+### 🔭 I’m interested on:
+
+- Engines and game development
+- Scalable backend architetures
+- Multiplatform mobile development
+
+### I’m currently learning:
+
+- Unity<br>
+- C#<br>
+- C++<br>
+
+### 📫 How to reach me:
+<a href="https://www.linkedin.com/in/liversonp/"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:liverson.p@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><br>
+
+### 😄 Pronouns:
+he/his
 
 <div style="display: flex">
     <img style="margin-right: 1%" align="center" src="./assets/zero.gif" width="150">
