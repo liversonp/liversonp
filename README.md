@@ -1,4 +1,6 @@
-# Hi there, I'm Liverson Paulo
+# Hello there <img src="./assets/wave.gif" width="30px">
+
+My name is Liverson Paulo, I'm Accomplishing Bachelor degree in Software Engineering at [University of Brasilia (UnB)](https://www.unb.br)
 
 ### 🔭 I’m interested on:
 
