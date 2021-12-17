@@ -1,4 +1,4 @@
-# Hi there, I'm Liverson Paulo <img style="margin-right: 1%" align="center" src="./assets/zero.gif" width="40" >
+# Hi there, I'm Liverson Paulo
 
 ### 🔭 I’m interested on:
 
@@ -19,10 +19,10 @@
 ### 😄 Pronouns:
 he/his
 
-<div style="display: flex">
-    <img style="margin-right: 1%" align="center" src="./assets/megachu.gif" width="150">
-    <div>
-        <b>Languages</b><br>
+<table>
+  <tr>
+    <td><img align="center" src="./assets/megachu.gif" width="150"></td>
+    <td><b>Languages</b><br>
         <img align="center"src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
         <img align="center"src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
         <img align="center"src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -36,16 +36,20 @@ he/his
         <img align="center"src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
         <img align="center"src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
         <img align="center"src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
-        <img align="center"src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-    </div>
-</div>
+        <img align="center"src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></td>
+    </tr>
+ </table>
 
 <br>
 
-[![liversonp's GitHub stats](https://github-readme-stats.vercel.app/api?username=liversonp&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liversonp&layout=compact&hide=ruby&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=liversonp&include_all_commits=true&theme=radical&custom_title=liversonp's Github Stats">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liversonp&layout=compact&hide=ruby&theme=radical">
+    </a>
+</p>
 <!--
 **liversonp/liversonp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
