@@ -1,4 +1,4 @@
-## Hi there, I'm Liverson Paulo <img style="margin-right: 1%" align="center" src="./assets/megachu.gif" width="30" >
+# Hi there, I'm Liverson Paulo <img style="margin-right: 1%" align="center" src="./assets/zero.gif" width="40" >
 
 ### 🔭 I’m interested on:
 
@@ -20,7 +20,7 @@
 he/his
 
 <div style="display: flex">
-    <img style="margin-right: 1%" align="center" src="./assets/zero.gif" width="150">
+    <img style="margin-right: 1%" align="center" src="./assets/megachu.gif" width="150">
     <div>
         <b>Languages</b><br>
         <img align="center"src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
